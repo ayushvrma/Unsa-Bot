@@ -59,4 +59,4 @@ async def unban(ctx,member: discord.Member, *,reason=None):
 
 
 
-client.run('Nzk4NDkwOTIyNjgxNDk5NjY4.X_1ynw.uA1r3UsYLtGaLdYmLH_HYP5lySA')
+client.run('TOKEN')
